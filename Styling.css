@@ -1,0 +1,65 @@
+.unorder-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+.e-paper-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.latest-text {
+    display: flex;
+}
+.latest-text-sibbling-cont {
+    list-style-type: none;
+    display: flex;
+}
+.tracker-india-cont {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tracker-unorder-list {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.covid-resources-cont {
+    display: flex;
+}
+.services-cont {
+    list-style-type: none;
+    display: flex;
+}
+.services-how-to-help-cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.how-to-help-cont {
+    display: flex;
+    justify-content: space-around;
+    list-style-type: none;
+    
+}
+.vaccination-plasma-General-cont {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+}
+.frequeantly-asked-qns-cont {
+    display: flex;
+    justify-content: space-between;
+}
+.news-cont {
+    list-style-type: none;
+    display: flex;
+}
+.services-unorder-list {
+    list-style-type: none;
+}
+.frequent-qns {
+    list-style-type: none;
+}
